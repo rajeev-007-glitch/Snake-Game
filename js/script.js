@@ -1,8 +1,8 @@
 let inputDir = { x: 0, y: 0 };
-const foodSound = new Audio("../data/food.mp3");
+const foodSound = new Audio("../data/yamate2.mp3");
 const gameOverSound = new Audio("../data/DeathSound.mp3");
 const moveSound = new Audio("../data/moveSound.mp3");
-const musicSound = new Audio("../data/BGsound2.mp3");
+const musicSound = new Audio("../data/BGsound1.mp3");
 let speed = 10;
 let score = 0;
 let lastPaintTime = 0;
